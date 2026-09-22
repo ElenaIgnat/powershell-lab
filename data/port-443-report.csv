@@ -1,0 +1,5 @@
+"Server","Port","Reachable"
+"google.com","443","True"
+"github.com","443","True"
+"localhost","443","False"
+"192.0.2.1","443","False"

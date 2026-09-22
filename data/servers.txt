@@ -1,0 +1,4 @@
+google.com
+github.com
+localhost
+192.0.2.1
